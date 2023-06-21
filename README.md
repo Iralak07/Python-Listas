@@ -70,3 +70,6 @@ La segmentación es útil para extraer porciones específicas de una lista y rea
 
       lista = ['Luis','Luis','Perez', 1,3,4, 1,3,4]
       # Esto no acarrearia ningun tipo de error
+
+
+Con esto hemos visto en este apartado lo suficiente para tener una idea clara de que son las listas y cuales su caracteristicas que lo hace el mas versatil dentro de los tipos de agrupadores de datos dentro de python.
